@@ -1,6 +1,6 @@
 # Módulo 3 - Introducción a JavaScript
 
-Repositorio de ejercicios del Módulo 3 del bootcamp Full Stack JavaScript (Talento Digital).
+Repositorio de ejercicios diversos modulos bootcamp Full Stack JavaScript (Talento Digital).
 
 ## Contenido
 
@@ -13,11 +13,8 @@ Repositorio de ejercicios del Módulo 3 del bootcamp Full Stack JavaScript (Tale
 2. Abrir el archivo EP1.html en un navegador web.
 3. Deberías ver en pantalla el mensaje *¡Hola Mundo!*.
 
-## Autor
 
-- Constanza Alegría (@ConnorsSilverblue)
-
-## Ejercicio Práctico 1 – Lección 2  
+## Ejercicio Práctico 1 – Lección 2 - Modulo 3 
 **Cálculo del área de una circunferencia**
 
 Este ejercicio pide al usuario el diámetro de una circunferencia y calcula el área usando:
@@ -27,3 +24,7 @@ El resultado se muestra:
 - En la consola del navegador.
 - En una ventana de alerta.
 - Dentro de la página, en el elemento con id `resultado`.
+
+## Autor
+
+- Constanza Alegría (@ConnorsSilverblue)
