@@ -1,7 +1,7 @@
+# Repositorio de ejercicios diversos modulos bootcamp Full Stack JavaScript (Talento Digital).
+
+
 # Módulo 3 - Introducción a JavaScript
-
-Repositorio de ejercicios diversos modulos bootcamp Full Stack JavaScript (Talento Digital).
-
 ## Contenido
 
 - EP1.html: primer ejercicio de JavaScript usando document.writeln() para mostrar  
