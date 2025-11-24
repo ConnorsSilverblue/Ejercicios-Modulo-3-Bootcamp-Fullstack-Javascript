@@ -16,3 +16,14 @@ Repositorio de ejercicios del Módulo 3 del bootcamp Full Stack JavaScript (Tale
 ## Autor
 
 - Constanza Alegría (@ConnorsSilverblue)
+
+## Ejercicio Práctico 1 – Lección 2  
+**Cálculo del área de una circunferencia**
+
+Este ejercicio pide al usuario el diámetro de una circunferencia y calcula el área usando:
+área = π * radio², donde radio = diámetro / 2.
+
+El resultado se muestra:
+- En la consola del navegador.
+- En una ventana de alerta.
+- Dentro de la página, en el elemento con id `resultado`.
